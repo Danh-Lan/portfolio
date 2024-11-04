@@ -1,0 +1,44 @@
+{
+  "aboutMe": {
+    "description": "Bonjour ! Je m'appelle Danh Lan NGUYEN, et je suis passionné par la technologie, en particulier le développement et le Machine Learning. J'aime toujours apprendre et améliorer mes compétences."
+  },
+  "hobbies": {
+    "title": "Centres d'intérêt",
+    "items": [
+      {
+        "title": "Course à pied",
+        "description": "J'ai participé à Run in Lyon 2024 dans la catégorie 10 km. C'était une super expérience !"
+      },
+      {
+        "title": "Danse du Lion",
+        "description": "Danse traditionelle asiatique. Je suis membre de Hong Teck Lyon, une équipe professionnelle de danse du lion en France."
+      },
+      
+      {
+        "title": "Rubik's Cube",
+        "description": "La communauté du Rubik's cube est très amicale et accueillante !",
+        "link": {
+          "text": "Voici mon résultat en compétition",
+          "url": "https://www.worldcubeassociation.org/persons/2024NGUY11"
+        }
+      },
+      {
+        "title": "Piano",
+        "description": "Je suis débutant au piano."
+      },
+      {
+        "title": "Jeu d'échecs",
+        "description": ""
+      }
+    ]
+  },
+  "awards": {
+    "title": "Prix & Distinctions",
+    "items": [
+      {
+        "title": "Concours de programmation SWERC 2022-2023 (Sud Ouest de l'Europe)",
+        "description": "Classement 26/120 équipes, 5/41 équipes françaises"
+      }
+    ]
+  }
+}
