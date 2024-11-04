@@ -1,4 +1,3 @@
-import React from 'react';
 import BottomBar from './components/BottomBar';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
@@ -7,7 +6,7 @@ import AboutMe from './components/AboutMe';
 
 function App() {
   return (
-    <Router>
+    <Router basename={import.meta.env.BASE_URL}>
       <div className="min-h-screen flex flex-col">
         <NavBar />
         <div className="flex-grow max-w-4xl mx-auto mt-8 p-4">
