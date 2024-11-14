@@ -1,8 +1,9 @@
 import BottomBar from './components/BottomBar';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
-import MainPage from './components/MainPage';
-import AboutMe from './components/AboutMe';
+import MainPage from './pages/MainPage';
+import AboutMe from './pages/AboutMe';
+import Contact from './pages/Contact';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           <Routes>
             <Route path="/" element={<MainPage />} />
             <Route path="/about-me" element={<AboutMe />} />
+            <Route path="/contact" element={<Contact />} />
           </Routes>
         </div>
         <BottomBar />

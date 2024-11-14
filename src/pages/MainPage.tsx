@@ -1,7 +1,7 @@
 import React from 'react';
-import Experiences from './Experiences';
-import Projects from './Projects';
-import Header from './Header';
+import Experiences from '../components/Experiences';
+import Projects from '../components/Projects';
+import Header from '../components/Header';
 
 const MainPage: React.FC = () => {
   return (
