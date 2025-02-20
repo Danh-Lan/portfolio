@@ -35,16 +35,6 @@ const AboutMe: React.FC = () => {
           </div>
         ))}
       </div>
-
-      <h2 className="text-3xl font-semibold mb-4">{data.awards.title}</h2>
-      <div className="grid grid-cols-1 gap-4 mb-8">
-        {data.awards.items.map((award, index) => (
-          <div key={index} className="bg-gray-200 p-4 rounded-lg shadow-md">
-            <h3 className="text-xl font-bold mb-2">{award.title}</h3>
-            <p>{award.description}</p>
-          </div>
-        ))}
-      </div>
     </div>
   );
 };

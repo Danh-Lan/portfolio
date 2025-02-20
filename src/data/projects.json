@@ -2,7 +2,7 @@
   {
     "name": "Blog (Full Stack)",
     "url": "https://blog-dl.vercel.app/",
-    "technologies": ["React", "TypeScript", "Spring", "Docker", "Vercel", "Google Cloud Run", "PostgreSQL"],
+    "technologies": ["React", "Spring Boot", "Docker", "Google Cloud", "PostgreSQL"],
     "description": ""
   },
   {

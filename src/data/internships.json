@@ -3,21 +3,21 @@
     "title": "Stagiaire développeur web",
     "company": "TECH'advantage",
     "period": "Février 2024 - Juillet 2024",
-    "technologies": "Angular, Spring, React, Gatsby, GraphQL",
-    "mainDescription": "Mettre en place la personnalisation des modèles de documentation générés par EasyDocContent (EDC), une application de création de documentation",
+    "technologies": "Angular, Spring Boot, React, Gatsby",
+    "mainDescription": "Personnalisation des modèles de documentation générés par EasyDocContent (EDC)",
     "subDescription": [
-      "Réalisation d'un Proof of Concept pour évaluer la compatibilité de Gatsby avec EDC afin de remplacer le système actuel basé sur Angular, qui limite la documentation à un seul modèle",
-      "Proposition d'une nouvelle architecture à mettre en place et implémentation des changements"
+      "RRéalisation d'un Proof of Concept pour évaluer la compatibilité de Gatsby avec EDC afin de remplacer le système actuel basé sur Angular",
+      "Proposition d'une nouvelle architecture et d'un procès détaillé à mettre en place et implémentation des changements sur EDC"
     ]
   },
   {
     "title": "Stagiaire développeur web",
     "company": "Onepoint",
     "period": "Août 2023 - Septembre 2023",
-    "technologies": "React, Redux, TypeScript, Fastify, Node.js, Docker, Microsoft Azure",
+    "technologies": "React, Redux, Fastify, Docker, Agile",
     "mainDescription": "Développement d'une application permettant aux utilisateurs de gérer leurs interactions avec plusieurs chatbots IA",
     "subDescription": [
-      "Implémentation de fonctionnalités frontend et backend",
+      "Implémenter des fonctionnalités frontend et backend",
       "Résolution de la dépendance à une bibliothèque UI, facilitant la transition vers un design personnalisé sans perturber l'application"
     ]
   },
@@ -25,7 +25,9 @@
     "title": "Stagiaire en traitement d'images",
     "company": "Laboratoire LIRIS",
     "period": "Juillet 2022 - Septembre 2022",
-    "mainDescription": "Étude bibliographique sur les méthodes de traitement d'images appliquées à la reconnaissance des structures chimiques dans les documents scientifiques, facilitant la recherche de molécules spécifiques",
-    "subDescription": []
+    "mainDescription": "Faciliter la recherche de molécules spécifiques dans une base documentaire",
+    "subDescription": [
+      "Étude bibliographique sur les méthodes de traitement d'images appliquées à la reconnaissance des structures chimiques"
+    ]
   }
 ]

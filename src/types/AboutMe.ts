@@ -9,11 +9,6 @@ interface Hobby {
   link?: Link;
 }
 
-interface Award {
-  title: string;
-  description: string;
-}
-
 export interface AboutMeData {
   aboutMe: {
     description: string;
@@ -21,9 +16,5 @@ export interface AboutMeData {
   hobbies: {
     title: string;
     items: Hobby[];
-  };
-  awards: {
-    title: string;
-    items: Award[];
   };
 }
