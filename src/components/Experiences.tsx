@@ -8,7 +8,7 @@ const Experiences: React.FC = () => {
       {internships.map((internship: Internship, index: number) => (
         <div 
           key={index} 
-          className="bg-gray-100 p-6 rounded-lg shadow-lg mb-6 transition-shadow hover:shadow-xl"
+          className="bg-blue-100 p-6 rounded-lg shadow-lg mb-6 transition-shadow hover:shadow-xl"
         >
           <div className="flex justify-between items-center mb-2">
             <h3 className="text-xl font-bold">{internship.title} - {internship.company}</h3>
